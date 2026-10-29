@@ -1,33 +1,3 @@
-// #include <iostream>
-// using namespace std;
-// #include <vector>
-// #include <algorithm>
-
-
-
-// int main(){
-//     int arr[]={1,2,3,4,5};
-//     // int m=1;
-
-//     // int n = (m+1, m-2);
-
-//     // cout<<n;
-//     int pos=2;
-//     int n= 5;
-    
-//     for (int i = n; i > pos; i--) {
-//     arr[i] = arr[i - 1];
-//     }
-//     arr[pos] = 10;
-//     n++;
-
-//     for(int i=0;i<6;i++){
-//         cout<<arr[i]<<endl;
-//     }
-
-// }
-
-
 
 #include <iostream>
 using namespace std;
